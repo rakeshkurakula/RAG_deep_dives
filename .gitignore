@@ -47,3 +47,4 @@ ENV/
 .coverage
 htmlcov/
 data/
+rag-project/hf_cache
