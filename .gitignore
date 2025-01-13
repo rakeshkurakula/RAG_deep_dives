@@ -48,3 +48,4 @@ ENV/
 htmlcov/
 data/
 rag-project/hf_cache
+*.pkl
